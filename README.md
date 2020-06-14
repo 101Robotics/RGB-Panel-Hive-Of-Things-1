@@ -1,1 +1,1 @@
-# RGB-Panel---Hive-Of-Things-1
+# RGB Panel - Hive Of Things #1
